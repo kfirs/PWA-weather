@@ -17,3 +17,13 @@ This is a work in progress, if you find a mistake, please [file an issue](https:
 * A text editor
 * Basic knowledge of HTML, CSS and JavaScript
 * (Optional) Node is required in the last step to deploy to Firebase
+
+
+git add .
+git commit -m "comment"
+git push
+
+to download:
+git clone https://github.com/kfirs/PWA-weather.git 
+to pull :) 
+git pull
